@@ -1,0 +1,11 @@
+nlp-fastapi-project/
+├── client/
+│   └── client.py
+├── server/
+│   ├── main.py
+│   ├── api/
+│   ├── models/
+│   ├── preprocessing/
+│   └── utils/
+├── requirements.txt
+├── .gitignore
